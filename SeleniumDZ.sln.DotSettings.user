@@ -1,0 +1,120 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=04c326d2_002Da7cd_002D4fe9_002D8fc8_002Da587c2a8a813/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PromoDJRegistrationTesting #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.PromoDj.PromoDJRegistrationTesting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.PromoDj.PromoDJAutorizationTesting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.PromoDj.PromoDjProfiletesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0cf5b144_002Df55d_002D442f_002D8308_002Dfcd73929f331/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GoogleTesting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.Kinopoisk.KinoPoiskEnterTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0e8c9a5a_002Da82a_002D438b_002Da03e_002Dd225b0d14b08/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AutoDocAutorizaciaTesting #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.Kinopoisk.AutoDocAutorizaciaTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=12a0dc67_002D8e76_002D4e7a_002Dac38_002D2a36cfccc78a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AutoDocAutorizaciaTesting #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.Kinopoisk.AutoDocAutorizaciaTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=21c4ea67_002D6a6d_002D44db_002D9dc7_002Dc04e6925b206/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="KinoPoiskAutorizaciaTesting #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.Kinopoisk.KinoPoiskAutorizaciaTesting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.Kinopoisk.KinopoiskGoogleAutorizaciaTesting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.Kinopoisk.AutoDocAutorizaciaTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=25a944d7_002Ddb13_002D4bce_002Da2a6_002Da16054d6197d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="KinoPoiskAutorizaciaTesting #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.Kinopoisk.KinoPoiskAutorizaciaTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=31eebf37_002D4b47_002D4c77_002Db016_002D913a5481aec9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PromoDJRegistrationTesting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.PromoDj.PromoDJRegistrationTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=31ef7b24_002D1361_002D49af_002Db8ec_002D9284083abb4b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AutoDocAutorizaciaTesting #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.Kinopoisk.AutoDocAutorizaciaTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3d441fcf_002D2955_002D4877_002Da3d5_002D3b366db92df7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PromoDJAutorizaciaTesting #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.PromoDj.PromoDJAutorizaciaTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=61132e4b_002D3146_002D41ee_002D8e9e_002Df65060f1d514/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PromoDJAutorizationTesting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.PromoDj.PromoDJAutorizationTesting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.PromoDj.PromoDjProfiletesting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.PromoDj.PromoDJRegistrationTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7b8dafa0_002D6a68_002D4b56_002D8f02_002Dbf523f3b191d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PromoDJAutorizaciaTesting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.PromoDj.PromoDJAutorizaciaTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7f389bdf_002D8e90_002D4f58_002D9475_002De9c2c3e3dbbe/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GoogleTesting #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.MyClass.GoogleTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8f311d1c_002Da9af_002D4451_002Db496_002Dc49dd9afc0fc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Auth" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.PromoDj.Auth&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.PromoDj.PromoDJRegistrationTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9d072028_002De1ae_002D4683_002D92de_002Df14c7bdf21a9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AutoDocAutorizaciaTesting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.Kinopoisk.AutoDocAutorizaciaTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9d420c80_002D50f5_002D40c0_002Da91d_002D60c8c52aa74a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PromoDJAutorizaciaTesting #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.PromoDj.PromoDJAutorizaciaTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=afffd2bf_002D406d_002D4fc3_002Dba67_002Dce88ba8e1e36/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="KinoPoiskEnterTesting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.Kinopoisk.KinoPoiskEnterTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b3306930_002D2894_002D4c65_002D8832_002D7dbce44d4536/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="KinoPoiskAutorizaciaTesting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.Kinopoisk.KinoPoiskAutorizaciaTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bc32b0c7_002D3571_002D42ef_002Dbcb8_002D7db82eda1a26/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AutoDocAutorizaciaTesting #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.Kinopoisk.AutoDocAutorizaciaTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c55c9f1d_002D0b3a_002D46d7_002Da8e8_002D87f150a7adf9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AutoDocAutorizaciaTesting #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.Kinopoisk.AutoDocAutorizaciaTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eeed5994_002D04dc_002D45fb_002D8e17_002D213d43dc4f62/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Kinopoisk" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.PromoDj.PromoDJAutorizaciaTesting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.PromoDj.PromoDJRegistrationTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ef13bd0f_002Da3ef_002D4c2d_002D829a_002D1c29acb0cbc3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="KinoPoiskEnterTesting #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.PromoDj.PromoDJRegistrationTesting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.PromoDj.PromoDJAutorizaciaTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f29e5dc7_002Dd925_002D46af_002Dafbb_002Dbe6a702de7f2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PromoDJAutorizaciaTesting #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::194270DA-5E87-43C8-8486-0BBE4A875A04::net6.0::SeleniumDZ.PromoDj&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
