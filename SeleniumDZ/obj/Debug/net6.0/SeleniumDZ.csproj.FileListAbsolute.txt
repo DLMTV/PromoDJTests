@@ -99,3 +99,4 @@ C:\Users\domkr\RiderProjects\API\SeleniumDZ\SeleniumDZ\obj\Debug\net6.0\Selenium
 C:\Users\domkr\RiderProjects\API\SeleniumDZ\SeleniumDZ\obj\Debug\net6.0\SeleniumDZ.genruntimeconfig.cache
 C:\Users\domkr\RiderProjects\API\SeleniumDZ\SeleniumDZ\obj\Debug\net6.0\ref\SeleniumDZ.dll
 C:\Users\domkr\RiderProjects\API\SeleniumDZ\SeleniumDZ\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\domkr\RiderProjects\API\SeleniumDZ\SeleniumDZ\bin\Debug\net6.0\SeleniumExtras.PageObjects.dll

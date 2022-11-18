@@ -1,4 +1,9 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0a979326_002Db888_002D4a38_002Dab32_002Dc50e2946fb00/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PromoDj #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D7EC6B5A-81C1-AC56-270E-D1052FF25BB7::net6.0::SeleniumDZ.PromoDj&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1852dd51_002D362c_002D4344_002Db493_002D92c073ed285e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PromoDjProfileTesting #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::D7EC6B5A-81C1-AC56-270E-D1052FF25BB7::net6.0::SeleniumDZ.PromoDj.PromoDjProfileTesting&lt;/TestId&gt;&#xD;
@@ -14,8 +19,23 @@
     &lt;TestId&gt;NUnit3x::D7EC6B5A-81C1-AC56-270E-D1052FF25BB7::net6.0::SeleniumDZ.PromoDj&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=69e2e11d_002Dfb68_002D4c78_002Dbd12_002D9f40e2f4ccbe/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PromoDj #9" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D7EC6B5A-81C1-AC56-270E-D1052FF25BB7::net6.0::SeleniumDZ.PromoDj&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8d3f392b_002D7ec8_002D4f50_002D9827_002Da6c75abb20b1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PromoDj #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D7EC6B5A-81C1-AC56-270E-D1052FF25BB7::net6.0::SeleniumDZ.PromoDj&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8e763a45_002D84ae_002D4b89_002Dba58_002D84fcbbabf9d3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PromoDj" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D7EC6B5A-81C1-AC56-270E-D1052FF25BB7::net6.0::SeleniumDZ.PromoDj&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=91550116_002Df2ce_002D4fc8_002D808b_002D74d0fb4d3734/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PromoDj #10" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::D7EC6B5A-81C1-AC56-270E-D1052FF25BB7::net6.0::SeleniumDZ.PromoDj&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
@@ -25,6 +45,16 @@
     &lt;TestId&gt;NUnit3x::D7EC6B5A-81C1-AC56-270E-D1052FF25BB7::net6.0::SeleniumDZ.PromoDj.PromoDjProfileTesting&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9f527b42_002D900d_002D4737_002D8a51_002D9a3532eadf58/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PromoDj #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D7EC6B5A-81C1-AC56-270E-D1052FF25BB7::net6.0::SeleniumDZ.PromoDj&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a0a97684_002D0792_002D4b5b_002D8ed6_002Dffd0c12bba56/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PromoDj #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D7EC6B5A-81C1-AC56-270E-D1052FF25BB7::net6.0::SeleniumDZ.PromoDj&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bd2d5e59_002D35fb_002D4b9f_002Db9d9_002Dd5d1f4905e6d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PromoDjProfileTesting #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::D7EC6B5A-81C1-AC56-270E-D1052FF25BB7::net6.0::SeleniumDZ.PromoDj.PromoDjProfileTesting&lt;/TestId&gt;&#xD;
@@ -32,9 +62,24 @@
     &lt;TestId&gt;NUnit3x::D7EC6B5A-81C1-AC56-270E-D1052FF25BB7::net6.0::SeleniumDZ.PromoDj.PromoDJRegistrationRandomTesting&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d15a6c47_002Ddf0e_002D48e0_002Db67f_002D2f0fd6b7f806/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PromoDjProfileTesting #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cd6c6bb8_002D989e_002D4f40_002D82e4_002D76447dfc8e04/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PromoDjProfileEditSecondNameNegativeTesting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D7EC6B5A-81C1-AC56-270E-D1052FF25BB7::net6.0::SeleniumDZ.PromoDj&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d15a6c47_002Ddf0e_002D48e0_002Db67f_002D2f0fd6b7f806/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PromoDjProfileTesting #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::D7EC6B5A-81C1-AC56-270E-D1052FF25BB7::net6.0::SeleniumDZ.PromoDj&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::D7EC6B5A-81C1-AC56-270E-D1052FF25BB7::net6.0::SeleniumDZ.PromoDjRegistrationWithCaptchaTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f20b5bd4_002Dd5a1_002D4642_002D9149_002D16aacb514b7c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PromoDj #8" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D7EC6B5A-81C1-AC56-270E-D1052FF25BB7::net6.0::SeleniumDZ.PromoDj&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fba2fbc4_002Dc29f_002D4fad_002D9abb_002D14633bb3d243/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PromoDj #11" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D7EC6B5A-81C1-AC56-270E-D1052FF25BB7::net6.0::SeleniumDZ.PromoDj&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

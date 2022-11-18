@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "d00tYTCe9brT/Btdn6qJIx11zlz7jtj7pmEHYDBhoty6SW1Bj2Y8cd5tJo1KrAmNLDtC0kTFtYv0HmWbv2P5fQ==",
+  "dgSpecHash": "HHa+sb5raqyzhYOkbbd0PDEaOOwkEK3s0uN/bbnwuICHlxhni/E/eXgSz8I1KFL/5cnv790BQEMRcgOjZMVkPQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\domkr\\RiderProjects\\API\\SeleniumDZ\\SeleniumDZ\\SeleniumDZ.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\domkr\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\domkr\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\4.3.0\\dotnetseleniumextras.pageobjects.core.4.3.0.nupkg.sha512",
     "C:\\Users\\domkr\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\domkr\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
     "C:\\Users\\domkr\\.nuget\\packages\\microsoft.net.test.sdk\\17.1.0\\microsoft.net.test.sdk.17.1.0.nupkg.sha512",

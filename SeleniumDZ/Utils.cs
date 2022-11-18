@@ -1,11 +1,15 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 using System.Reflection.Metadata.Ecma335;
 using OpenQA.Selenium;
+using OpenQA.Selenium.Support.UI;
+using SeleniumExtras.WaitHelpers;
 
 namespace SeleniumDZ;
 
 public abstract class Utils
 {
+    private WebDriver driver;
+    private WebDriverWait wait;
     public static string GetRandomEmail()
     {
         DateTime dateTime = DateTime.Now;
@@ -43,4 +47,6 @@ public abstract class Utils
         string sFilePath = Path.GetFullPath(sFile);
         return sFilePath;
     }
+
+    
 }
