@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HHa+sb5raqyzhYOkbbd0PDEaOOwkEK3s0uN/bbnwuICHlxhni/E/eXgSz8I1KFL/5cnv790BQEMRcgOjZMVkPQ==",
+  "dgSpecHash": "m1lMLs7UaWV7bkVPErGddd+DioPz0J1rySFEBn2nq3BDN2MP+05Uwi1qkAW5Hoe/MYK2RAzWarN4UHzS1QcXVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\domkr\\RiderProjects\\API\\SeleniumDZ\\SeleniumDZ\\SeleniumDZ.csproj",
+  "projectFilePath": "C:\\Users\\domkr\\RiderProjects\\API\\SeleniumDZ\\PromoDJTests\\SeleniumDZ\\SeleniumDZ.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\domkr\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\domkr\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\4.3.0\\dotnetseleniumextras.pageobjects.core.4.3.0.nupkg.sha512",

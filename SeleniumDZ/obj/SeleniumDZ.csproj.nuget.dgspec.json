@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\domkr\\RiderProjects\\API\\SeleniumDZ\\SeleniumDZ\\SeleniumDZ.csproj": {}
+    "C:\\Users\\domkr\\RiderProjects\\API\\SeleniumDZ\\PromoDJTests\\SeleniumDZ\\SeleniumDZ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\domkr\\RiderProjects\\API\\SeleniumDZ\\SeleniumDZ\\SeleniumDZ.csproj": {
+    "C:\\Users\\domkr\\RiderProjects\\API\\SeleniumDZ\\PromoDJTests\\SeleniumDZ\\SeleniumDZ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\domkr\\RiderProjects\\API\\SeleniumDZ\\SeleniumDZ\\SeleniumDZ.csproj",
+        "projectUniqueName": "C:\\Users\\domkr\\RiderProjects\\API\\SeleniumDZ\\PromoDJTests\\SeleniumDZ\\SeleniumDZ.csproj",
         "projectName": "SeleniumDZ",
-        "projectPath": "C:\\Users\\domkr\\RiderProjects\\API\\SeleniumDZ\\SeleniumDZ\\SeleniumDZ.csproj",
+        "projectPath": "C:\\Users\\domkr\\RiderProjects\\API\\SeleniumDZ\\PromoDJTests\\SeleniumDZ\\SeleniumDZ.csproj",
         "packagesPath": "C:\\Users\\domkr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\domkr\\RiderProjects\\API\\SeleniumDZ\\SeleniumDZ\\obj\\",
+        "outputPath": "C:\\Users\\domkr\\RiderProjects\\API\\SeleniumDZ\\PromoDJTests\\SeleniumDZ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\domkr\\AppData\\Roaming\\NuGet\\NuGet.Config"
